@@ -1,0 +1,16 @@
+/* 歌曲列表Tab栏样式 */
+.songs-table .el-table__row:hover .plus {
+  display: block;
+}
+
+.el-tabs__active-bar {
+  background-color: rgb(82, 146, 254) !important;
+}
+
+.el-tabs__item.is-active {
+  color: rgb(82, 146, 254) !important;
+}
+
+.el-tabs__item:not(.is-active):hover {
+  color: rgba(82,146,254, 0.555) !important;
+}
