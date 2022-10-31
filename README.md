@@ -77,7 +77,7 @@
 ## 💻部分页面截图
 
 **发现音乐**<br>
-![发现音乐](public/preview/发现音乐.png)
+![发现音乐](http://piedpiper.3vhost.work/screenshot/发现音乐.png)
 
 **推荐歌单**<br>
 ![推荐歌单](public/preview/推荐歌单.png)
