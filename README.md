@@ -77,40 +77,40 @@
 ## 💻部分页面截图
 
 **发现音乐**<br>
-![发现音乐](http://piedpiper.3vhost.work/screenshot/发现音乐.png)
-![发现音乐](https://user-images.githubusercontent.com/104426986/198955696-95185b59-8f78-47b2-87a6-e9c47020186c.png)
+![发现音乐](https://user-images.githubusercontent.com/104426986/198956613-a2f84134-4d0c-4f63-931f-10d2a1925504.png)
+
 **推荐歌单**<br>
-![推荐歌单](public/preview/推荐歌单.png)
+![推荐歌单](https://user-images.githubusercontent.com/104426986/198956640-9db52de4-c718-4bc0-a15c-3b4ed16bfbf9.png)
 
 **最新音乐**<br>
-![最新音乐](public/preview/最新音乐.png)
+![最新音乐](https://user-images.githubusercontent.com/104426986/198956651-0226d249-2923-49a0-b1c0-39c41f3ccf9f.png)
 
 **最新MV**<br>
-![最新MV](public/preview/最新MV.png)
+![最新MV](https://user-images.githubusercontent.com/104426986/198956675-165c3ee3-bcf7-4c74-8a48-895bf0ee0b14.png)
 
 **搜索结果**<br>
-![搜索结果](public/preview/搜索结果.png)
+![搜索结果](https://user-images.githubusercontent.com/104426986/198956699-3cf6b542-6b6c-4e46-867b-5f76985509d7.png)
 
 **歌词详情**<br>
-![歌词详情](public/preview/歌词详情.png)
+![歌词详情](https://user-images.githubusercontent.com/104426986/198956718-75000bf6-d7ea-48b9-85c0-1d6869d66b77.png)
 
 **播放列表**<br>
-![播放列表](public/preview/播放列表.png)
+![播放列表](https://user-images.githubusercontent.com/104426986/198956734-9b99ed75-8de4-4338-b181-0917753cb70c.png)
 
 **MV详情**<br>
-![MV详情](public/preview/MV详情.png)
+![MV详情](https://user-images.githubusercontent.com/104426986/198956759-486c7234-2388-46a1-b66b-105289717a04.png)
 
 **歌手详情**<br>
-![歌手详情](public/preview/歌手详情.png)
+![歌手详情](https://user-images.githubusercontent.com/104426986/198956794-3ebde6b9-45b2-45d6-9635-17aa892094cc.png)
 
 **热搜榜与搜索历史**
-![热搜榜与搜索历史](public/preview/热搜榜.png )
+![热搜榜](https://user-images.githubusercontent.com/104426986/198956807-ab0e3251-40c2-4402-bdf7-10a860efab0e.png)
 
 **歌单详情**
-![歌单详情](public/preview/歌单详情.png)
+![歌单详情](https://user-images.githubusercontent.com/104426986/198956826-a89eb22f-7460-4a4c-b2da-ee658535861d.png)
 
 **专辑详情**
-![专辑详情](public/preview/专辑详情.png)
+![专辑详情](https://user-images.githubusercontent.com/104426986/198956842-eb7374c8-6c94-4b3a-9749-7f5ac6c0ca2f.png)
 
 ## 📆历史版本
 #### V1.0.0 (2022年9月12日)
