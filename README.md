@@ -78,7 +78,7 @@
 
 **发现音乐**<br>
 ![发现音乐](http://piedpiper.3vhost.work/screenshot/发现音乐.png)
-
+![发现音乐](https://user-images.githubusercontent.com/104426986/198955696-95185b59-8f78-47b2-87a6-e9c47020186c.png)
 **推荐歌单**<br>
 ![推荐歌单](public/preview/推荐歌单.png)
 
