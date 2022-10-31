@@ -103,13 +103,13 @@
 **歌手详情**<br>
 ![歌手详情](https://user-images.githubusercontent.com/104426986/198956794-3ebde6b9-45b2-45d6-9635-17aa892094cc.png)
 
-**热搜榜与搜索历史**
+**热搜榜与搜索历史**<br>
 ![热搜榜](https://user-images.githubusercontent.com/104426986/198956807-ab0e3251-40c2-4402-bdf7-10a860efab0e.png)
 
-**歌单详情**
+**歌单详情**<br>
 ![歌单详情](https://user-images.githubusercontent.com/104426986/198956826-a89eb22f-7460-4a4c-b2da-ee658535861d.png)
 
-**专辑详情**
+**专辑详情**<br>
 ![专辑详情](https://user-images.githubusercontent.com/104426986/198956842-eb7374c8-6c94-4b3a-9749-7f5ac6c0ca2f.png)
 
 ## 📆历史版本
